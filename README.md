@@ -5,7 +5,7 @@
 Gabriel Reiser — Independent Researcher
 
 ---
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19836411.svg)](https://doi.org/10.5281/zenodo.19836411)
 ## Overview
 
 This repository contains the paper and supporting simulation notebooks for a theoretical architecture proposal for photonic memristors based on two-dimensional tin(II) selenide (SnSe) crystals fabricated on graphene substrates.
